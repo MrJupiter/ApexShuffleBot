@@ -5,7 +5,7 @@ import os
 import responses as rs
 from uptime import keep_alive
 
-"LEGIT_IDS = {server_id1:command_channel_id2, server_id1:command_channel_id2}
+#LEGIT_IDS = {server_id1:command_channel_id2, server_id1:command_channel_id2}
 LEGIT_IDS  = {828417721745014784:1098827341515464765, 1092836175405928478:1098683625622470796}
 
 intents = discord.Intents.default()
